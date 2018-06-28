@@ -1,0 +1,12 @@
+﻿  Duration.cpp
+e:\visual studio\thesis\thesis\duration.cpp(25): warning C4244: 'return': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+  PrintTest.cpp
+  Test.cpp
+  main.cpp
+e:\visual studio\thesis\thesis\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\visual studio\thesis\thesis\main.cpp(37): warning C4101: 'tminScl': unreferenced local variable
+e:\visual studio\thesis\thesis\main.cpp(29): warning C4101: 'tmin': unreferenced local variable
+e:\visual studio\thesis\thesis\main.cpp(41): warning C4101: 'tminwNAF': unreferenced local variable
+e:\visual studio\thesis\thesis\main.cpp(33): warning C4101: 'tminShr': unreferenced local variable
+  Generating Code...
+  Thesis.vcxproj -> E:\Visual Studio\Thesis\Debug\Thesis.exe

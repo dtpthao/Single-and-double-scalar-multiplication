@@ -1,0 +1,12 @@
+﻿  PrintTest.cpp
+  Test.cpp
+  main.cpp
+e:\thesis\thesis\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\thesis\thesis\main.cpp(37): warning C4101: 'tminScl': unreferenced local variable
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  10 of 102 functions ( 9.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Thesis.vcxproj -> E:\Thesis\Release\Thesis.exe
